@@ -1,0 +1,19 @@
+body {
+  background-color: white;
+  font-family: helvetica;
+  color: #113f67;
+  font-size: 30px;
+  line-height: 20px ;
+}
+/*Choose a nice color and font-family for headers (<h1>, <h2>, <h3>)
+Choose harmonious font-size and line-height for headers*/
+
+h1, h2, h3 {
+  color: blue;
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+}
+
+#profile_pic{
+  border-radius: 20px;
+}
